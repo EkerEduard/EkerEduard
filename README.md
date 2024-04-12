@@ -1,33 +1,28 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRxcHpxZnpjMWU1ajFmejh3YW9pa2I1aWpramF4aGNxY2Y4ampndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okLCopqw6ElCDnIhuS/giphy.gif" width="200"/>
-<!--
-  <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Edvard+Eker!;" />
+</h1>
+
+<h3 align="center">Unity game developer from Russia/Sweden</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **top-down shooter**
+ 
+ ⚡ Every day I improve my Unity, C#, Blender, VFX, Music, Text skills
+
+💬 Open source and accessibility are everything!
+
+ </div>
+
+ <div align="center"> 
+  <a href="mailto:pedro.sales.ekermikro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="your-youtube-URL">
-   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/> 
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://t.me/Mikrolli" target="_blank">
+     <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
--->
-
-</div>
-
-
-<!--
-**EkerEduard/EkerEduard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
